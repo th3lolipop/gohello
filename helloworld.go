@@ -1,5 +1,7 @@
 package main
+
 import "fmt"
+
 func main() {
-	fmt.Printf("Hello, MOTHERFUCKER")
+	fmt.Println("Hello, GG Let Them End")
 }
